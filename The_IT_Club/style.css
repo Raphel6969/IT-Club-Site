@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;400&display=swap');
+
+                                                                                /* Screen Elements */
+
+body{
+margin: 10vh 11vw;
+color: white;
+background: #0A1350;
+
+}
+
+a{
+    color: white;
+}
+
+
+                                                                                /* NAVBAR */
+
+
+.navbar{
+    font-family: 'Outfit', sans-serif;
+}
+
+.companyTitle{
+    font-size: xx-large;
+}
+
+.nav-items{
+    float: right;
+    position: relative;
+    bottom: 8vh;
+}
+
+.nav-items a{
+    text-decoration: none;
+    font-size: larger;
+}
+
+.abtUs, .links, .docs, .vids, .code {
+    padding: 10px;
+}
+
+
+                                                                                /* HeroSection */
+.heroSec h1{
+    font-family: 'Outfit', sans-serif;
+    font-size: 8rem;
+    margin-bottom: -44px;
+}
+
+
+
+.heroTxt{
+    position: relative;
+    bottom: 100px;
+}
+
+.heroPic{
+    position: relative;
+    left: 20%;
+}
+
+.heroTxt p{
+    font-family: 'Outfit', sans-serif;
+    font-size: 150%;
+
+}
